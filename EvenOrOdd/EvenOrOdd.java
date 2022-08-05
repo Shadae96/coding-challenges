@@ -1,3 +1,5 @@
+package EvenOrOdd;
+
 
 /*
  * intializing Scanner(built in java method) so we can interact in the console
@@ -38,6 +40,8 @@ public class EvenOrOdd {
             System.out.println("this " + num + " is odd");
             
         }
+
+        input.close();
 
     }
 
